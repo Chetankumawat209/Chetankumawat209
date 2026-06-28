@@ -16,7 +16,7 @@ An ambitious machine learning engineer with a strong foundation in Python, data 
 * SQL
 * Git & GitHub
 * Data Structures & Algorithms
-* NLP
+
 
 ## Projects
 
@@ -24,10 +24,11 @@ An ambitious machine learning engineer with a strong foundation in Python, data 
 
 An AI-powered interview preparation platform that generates interview questions and evaluates responses.
 
-### Wine Quality Prediction
+### Student Management System
 
-A Machine Learning project that predicts wine quality using physicochemical features. Includes data preprocessing, EDA, feature engineering, and model training.
-
+A simple Streamlit app to manage student records — add, view, update, delete, search, and find the topper, all from one interactive table. Upload an existing CSV or start fresh, then save your changes back to your computer or download them.
+ git link :- https://github.com/Chetankumawat209/Student-Management
+ 
 ## Current Focus
 
 * Advanced Machine Learning
