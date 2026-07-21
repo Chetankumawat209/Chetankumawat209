@@ -1,36 +1,36 @@
-# Hi, I'm Chetan Kumawat 
+# Hi, I'm Chetan Kumawat 👋
 
 ## About Me
-
-An ambitious machine learning engineer with a strong foundation in Python, data reprocessing, and machine learning Algorithms. Hands-on experience with Scikit-learn, and exploratory data analysis. Looking for an entry-level Opportunity in AI/ML to apply analytical and problem-solving skills.
+An ambitious machine learning engineer with a strong foundation in Python, data preprocessing, and machine learning algorithms. Hands-on experience with Scikit-learn and exploratory data analysis. Looking for an entry-level opportunity in AI/ML to apply analytical and problem-solving skills.
 
 ## Skills
-
 * Python
 * Machine Learning
-* Deep Learning
+* Deep Learning fundemental
 * Data Analysis
 * Pandas
 * NumPy
+* Seaborn
 * Scikit-learn
 * SQL
 * Git & GitHub
 * Data Structures & Algorithms
 
-
 ## Projects
 
-### AI Interview Assistant
+### Indian House Price Predictor
+A machine learning web app that predicts house prices across major Indian cities based on property size, location, amenities, and more. Built with Scikit-learn (Linear Regression) and Streamlit, deployed on Hugging Face Spaces.
+### Live App: https://huggingface.co/spaces/Chetankumawat/Indian_house_price_predictor
+### Git link: https://github.com/Chetankumawat209/Indian-House-price-prediction
 
-An AI-powered interview preparation platform that generates interview questions and evaluates responses.
 
 ### Student Management System
+A simple Streamlit app to manage student records — add, view, update, delete, search, and find the topper, all from one interactive table. 
+Upload an existing CSV or start fresh, then save your changes back to your computer or download them.
+#### Git link: https://github.com/Chetankumawat209/Student-Management
+#### Live App : https://ckstudent.streamlit.app/
 
-A simple Streamlit app to manage student records — add, view, update, delete, search, and find the topper, all from one interactive table. Upload an existing CSV or start fresh, then save your changes back to your computer or download them.
- git link :- https://github.com/Chetankumawat209/Student-Management
- 
 ## Current Focus
-
 * Advanced Machine Learning
 * Deep Learning
 * NLP
@@ -38,10 +38,8 @@ A simple Streamlit app to manage student records — add, view, update, delete, 
 * System Design for AI Applications
 
 ## Goals
-
 Seeking full-time opportunities as an AI/ML Engineer, Machine Learning Engineer, Data Scientist, or Python Developer.
 
 ## Connect With Me
-
 * LinkedIn: https://www.linkedin.com/in/chetankumawat
-* Email: chetankumawat209gmail.com
+* Email: chetankumawat209@gmail.com
